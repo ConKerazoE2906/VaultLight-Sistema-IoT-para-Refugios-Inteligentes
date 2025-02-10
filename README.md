@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Descripción  
+## 🚀 Descripción:
 
 Este proyecto combina **IoT, automatización y realidad aumentada (AR)** para el control inteligente de una maqueta de casa con un **búnker subterráneo**, inspirado en el universo de *Fallout* 🎮.  
 
